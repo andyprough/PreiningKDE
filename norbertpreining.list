@@ -1,0 +1,6 @@
+#Norbert Preining's Debian Sid KDE repos
+deb https://download.opensuse.org/repositories/home:/npreining:/debian-kde:/other-deps/Debian_Unstable/ ./
+deb https://download.opensuse.org/repositories/home:/npreining:/debian-kde:/frameworks/Debian_Unstable/ ./
+deb https://download.opensuse.org/repositories/home:/npreining:/debian-kde:/plasma519/Debian_Unstable/ ./
+deb https://download.opensuse.org/repositories/home:/npreining:/debian-kde:/apps/Debian_Unstable/ ./
+deb https://download.opensuse.org/repositories/home:/npreining:/debian-kde:/other/Debian_Unstable/ ./
